@@ -11,6 +11,10 @@
 #config files
 
 src/firebase.config.js
+firebase.json
+.firebaserc
+firestore.indexes.json
+firestore.rules
 
 # production
 /build
